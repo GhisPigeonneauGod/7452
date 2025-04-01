@@ -1,7 +1,7 @@
 # 7452
 Motrix 140 Part 2
 Motrix Master Version 1.40
-
+see for Part 1 GhislainPigeonneau/7450
 Copyright (c) 2019 Patrik Laszlo / P3X / Corifeus and contributors.
 MIT License
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -20,5 +20,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 Ghislain Pigeonneau copyright about writing thejavascript without errors Motrix Master in two part to download by github: code, code, the rightpoint, rightclick download zip or athe adress https://pige.freeboxos.fr:27502/share/L_8sI5Nx7B9I1u4h/Motrix-master%20140a.zip
-for the purpo
+for the purpose
 http;//djghis.free.fr
