@@ -20,3 +20,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 Ghislain Pigeonneau copyright about writing thejavascript without errors Motrix Master in two part to download by github: code, code, the rightpoint, rightclick download zip or athe adress https://pige.freeboxos.fr:27502/share/L_8sI5Nx7B9I1u4h/Motrix-master%20140a.zip
+for the purpo
+http;//djghis.free.fr
